@@ -53,7 +53,7 @@ You can check the step-by-step code Implemetation in the Above jupyter notebook.
 
 ## Support
 
-For support, email ramyasri.adepu0107@gmail.com.
+For support, email ramyasri.adepu1601@gmail.com.
 
 
 ## Acknowledgements
